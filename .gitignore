@@ -1,0 +1,13 @@
+﻿.vs
+Assigment_01_API/bin
+Assigment_01_API/obj
+Assignment01API/bin
+Assignment01API/obj/Debug
+Assignment01API/obj
+BusinessObject/bin
+BusinessObject/obj
+DataAccess/bin
+DataAccess/obj
+Repository/bin
+Repository/obj
+BusinessObject/Migrations
